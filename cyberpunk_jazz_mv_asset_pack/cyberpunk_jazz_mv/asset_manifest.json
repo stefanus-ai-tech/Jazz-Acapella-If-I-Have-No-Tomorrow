@@ -1,0 +1,386 @@
+[
+  {
+    "file": "01_instruments/01_saxophone.png",
+    "width": 1145,
+    "height": 1374,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_percent": 56.35,
+    "alpha_bbox": [
+      0,
+      0,
+      1145,
+      1374
+    ],
+    "max_edge_alpha": 12
+  },
+  {
+    "file": "01_instruments/02_trumpet.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 52.01,
+    "alpha_bbox": [
+      0,
+      13,
+      1536,
+      1024
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "01_instruments/03_double_bass.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 65.36,
+    "alpha_bbox": [
+      0,
+      0,
+      1010,
+      1536
+    ],
+    "max_edge_alpha": 13
+  },
+  {
+    "file": "01_instruments/04_grand_piano.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 56.42,
+    "alpha_bbox": [
+      0,
+      7,
+      1506,
+      1008
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "01_instruments/05_snare_drum.png",
+    "width": 1402,
+    "height": 1122,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_percent": 31.54,
+    "alpha_bbox": [
+      0,
+      20,
+      1399,
+      1122
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "01_instruments/06_microphone.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 53.31,
+    "alpha_bbox": [
+      0,
+      0,
+      1004,
+      1536
+    ],
+    "max_edge_alpha": 4
+  },
+  {
+    "file": "02_city/01_needle_tower.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 56.45,
+    "alpha_bbox": [
+      0,
+      5,
+      1006,
+      1536
+    ],
+    "max_edge_alpha": 12
+  },
+  {
+    "file": "02_city/02_jazz_club_building.png",
+    "width": 1312,
+    "height": 1199,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_percent": 36.46,
+    "alpha_bbox": [
+      0,
+      0,
+      1302,
+      1188
+    ],
+    "max_edge_alpha": 2
+  },
+  {
+    "file": "02_city/03_rooftop_spire.png",
+    "width": 1312,
+    "height": 1199,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_percent": 45.74,
+    "alpha_bbox": [
+      0,
+      6,
+      1312,
+      1199
+    ],
+    "max_edge_alpha": 4
+  },
+  {
+    "file": "02_city/04_skyline_strip.png",
+    "width": 2172,
+    "height": 724,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_percent": 69.67,
+    "alpha_bbox": [
+      10,
+      9,
+      2172,
+      724
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "03_signage/01_jazz_sign.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 53.11,
+    "alpha_bbox": [
+      0,
+      0,
+      1520,
+      1024
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "03_signage/02_arrow_sign.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 57.57,
+    "alpha_bbox": [
+      0,
+      3,
+      1512,
+      1024
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "03_signage/03_butterfly_sign.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 58.02,
+    "alpha_bbox": [
+      0,
+      33,
+      1516,
+      1024
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "04_lighting/01_spotlight.png",
+    "width": 1312,
+    "height": 1199,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_percent": 50.09,
+    "alpha_bbox": [
+      0,
+      10,
+      1298,
+      1199
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "04_lighting/02_light_beam.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 58.77,
+    "alpha_bbox": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "max_edge_alpha": 13
+  },
+  {
+    "file": "04_lighting/03_neon_tube.png",
+    "width": 1029,
+    "height": 1528,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_percent": 79.45,
+    "alpha_bbox": [
+      18,
+      16,
+      1013,
+      1498
+    ],
+    "max_edge_alpha": 0
+  },
+  {
+    "file": "05_decor/01_butterfly.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 63.31,
+    "alpha_bbox": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "max_edge_alpha": 20
+  },
+  {
+    "file": "05_decor/02_little_star.png",
+    "width": 1303,
+    "height": 1207,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_percent": 62.33,
+    "alpha_bbox": [
+      0,
+      0,
+      1287,
+      1207
+    ],
+    "max_edge_alpha": 3
+  },
+  {
+    "file": "05_decor/03_moon.png",
+    "width": 1227,
+    "height": 1282,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_percent": 66.83,
+    "alpha_bbox": [
+      0,
+      9,
+      1215,
+      1282
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "05_decor/04_vinyl_record.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 44.96,
+    "alpha_bbox": [
+      0,
+      49,
+      1507,
+      1024
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "06_fx/01_shard_burst.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 57.49,
+    "alpha_bbox": [
+      0,
+      0,
+      1518,
+      1024
+    ],
+    "max_edge_alpha": 3
+  },
+  {
+    "file": "06_fx/02_waveform_ribbon.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 75.14,
+    "alpha_bbox": [
+      33,
+      29,
+      1522,
+      1024
+    ],
+    "max_edge_alpha": 1
+  },
+  {
+    "file": "06_fx/03_portal_ring.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 60.03,
+    "alpha_bbox": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "max_edge_alpha": 2
+  },
+  {
+    "file": "06_fx/04_butterfly_trail.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_percent": 78.68,
+    "alpha_bbox": [
+      0,
+      21,
+      1516,
+      1024
+    ],
+    "max_edge_alpha": 1
+  }
+]
